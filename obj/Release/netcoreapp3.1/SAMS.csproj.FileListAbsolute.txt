@@ -1,0 +1,845 @@
+C:\Users\btsambani\source\repos\SAMS\obj\Release\netcoreapp3.1\SAMS.csprojAssemblyReference.cache
+C:\Users\btsambani\source\repos\SAMS\obj\Release\netcoreapp3.1\SAMS.csproj.CoreCompileInputs.cache
+C:\Users\btsambani\source\repos\SAMS\obj\Release\netcoreapp3.1\SAMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\btsambani\source\repos\SAMS\obj\Release\netcoreapp3.1\SAMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\btsambani\source\repos\SAMS\obj\Release\netcoreapp3.1\SAMS.AssemblyInfoInputs.cache
+C:\Users\btsambani\source\repos\SAMS\obj\Release\netcoreapp3.1\SAMS.AssemblyInfo.cs
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\SAMS.exe
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\SAMS.deps.json
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\SAMS.runtimeconfig.json
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\SAMS.runtimeconfig.dev.json
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\SAMS.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\SAMS.pdb
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\SLY.dll
+C:\Users\btsambani\source\repos\SAMS\bin\Release\netcoreapp3.1\SLY.pdb
+C:\Users\btsambani\source\repos\SAMS\obj\Release\netcoreapp3.1\SAMS.RazorTargetAssemblyInfo.cache
+C:\Users\btsambani\source\repos\SAMS\obj\Release\netcoreapp3.1\SAMS.csproj.CopyComplete
+C:\Users\btsambani\source\repos\SAMS\obj\Release\netcoreapp3.1\staticwebassets\SAMS.StaticWebAssets.Manifest.cache
+C:\Users\btsambani\source\repos\SAMS\obj\Release\netcoreapp3.1\staticwebassets\SAMS.StaticWebAssets.xml
+C:\Users\btsambani\source\repos\SAMS\obj\Release\netcoreapp3.1\SAMS.dll
+C:\Users\btsambani\source\repos\SAMS\obj\Release\netcoreapp3.1\SAMS.pdb
+C:\Users\btsambani\source\repos\SAMS\obj\Release\netcoreapp3.1\SAMS.genruntimeconfig.cache
+F:\SAMS\bin\Release\netcoreapp3.1\appsettings.Development.json
+F:\SAMS\bin\Release\netcoreapp3.1\appsettings.json
+F:\SAMS\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+F:\SAMS\bin\Release\netcoreapp3.1\SAMS.exe
+F:\SAMS\bin\Release\netcoreapp3.1\SAMS.deps.json
+F:\SAMS\bin\Release\netcoreapp3.1\SAMS.runtimeconfig.json
+F:\SAMS\bin\Release\netcoreapp3.1\SAMS.runtimeconfig.dev.json
+F:\SAMS\bin\Release\netcoreapp3.1\SAMS.dll
+F:\SAMS\bin\Release\netcoreapp3.1\SAMS.pdb
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\SAMS\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\SAMS\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\SAMS\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\SAMS\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+F:\SAMS\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+F:\SAMS\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+F:\SAMS\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SAMS\bin\Release\netcoreapp3.1\SLY.dll
+F:\SAMS\bin\Release\netcoreapp3.1\SLY.pdb
+F:\SAMS\obj\Release\netcoreapp3.1\SAMS.csprojAssemblyReference.cache
+F:\SAMS\obj\Release\netcoreapp3.1\SAMS.AssemblyInfoInputs.cache
+F:\SAMS\obj\Release\netcoreapp3.1\SAMS.AssemblyInfo.cs
+F:\SAMS\obj\Release\netcoreapp3.1\SAMS.csproj.CoreCompileInputs.cache
+F:\SAMS\obj\Release\netcoreapp3.1\SAMS.MvcApplicationPartsAssemblyInfo.cs
+F:\SAMS\obj\Release\netcoreapp3.1\SAMS.MvcApplicationPartsAssemblyInfo.cache
+F:\SAMS\obj\Release\netcoreapp3.1\SAMS.RazorTargetAssemblyInfo.cache
+F:\SAMS\obj\Release\netcoreapp3.1\SAMS.csproj.CopyComplete
+F:\SAMS\obj\Release\netcoreapp3.1\staticwebassets\SAMS.StaticWebAssets.Manifest.cache
+F:\SAMS\obj\Release\netcoreapp3.1\staticwebassets\SAMS.StaticWebAssets.xml
+F:\SAMS\obj\Release\netcoreapp3.1\SAMS.dll
+F:\SAMS\obj\Release\netcoreapp3.1\SAMS.pdb
+F:\SAMS\obj\Release\netcoreapp3.1\SAMS.genruntimeconfig.cache
+I:\SAMS\bin\Release\netcoreapp3.1\appsettings.Development.json
+I:\SAMS\bin\Release\netcoreapp3.1\appsettings.json
+I:\SAMS\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+I:\SAMS\bin\Release\netcoreapp3.1\SAMS.exe
+I:\SAMS\bin\Release\netcoreapp3.1\SAMS.deps.json
+I:\SAMS\bin\Release\netcoreapp3.1\SAMS.runtimeconfig.json
+I:\SAMS\bin\Release\netcoreapp3.1\SAMS.runtimeconfig.dev.json
+I:\SAMS\bin\Release\netcoreapp3.1\SAMS.dll
+I:\SAMS\bin\Release\netcoreapp3.1\SAMS.pdb
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\SAMS\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+I:\SAMS\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\SAMS\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+I:\SAMS\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+I:\SAMS\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+I:\SAMS\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+I:\SAMS\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+I:\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\SAMS\bin\Release\netcoreapp3.1\SLY.dll
+I:\SAMS\bin\Release\netcoreapp3.1\SLY.pdb
+I:\SAMS\obj\Release\netcoreapp3.1\SAMS.csprojAssemblyReference.cache
+I:\SAMS\obj\Release\netcoreapp3.1\staticwebassets\SAMS.StaticWebAssets.Manifest.cache
+I:\SAMS\obj\Release\netcoreapp3.1\staticwebassets\SAMS.StaticWebAssets.xml
+I:\SAMS\obj\Release\netcoreapp3.1\SAMS.MvcApplicationPartsAssemblyInfo.cs
+I:\SAMS\obj\Release\netcoreapp3.1\SAMS.MvcApplicationPartsAssemblyInfo.cache
+I:\SAMS\obj\Release\netcoreapp3.1\SAMS.AssemblyInfoInputs.cache
+I:\SAMS\obj\Release\netcoreapp3.1\SAMS.AssemblyInfo.cs
+I:\SAMS\obj\Release\netcoreapp3.1\SAMS.RazorTargetAssemblyInfo.cache
+I:\SAMS\obj\Release\netcoreapp3.1\SAMS.csproj.CopyComplete
+I:\SAMS\obj\Release\netcoreapp3.1\SAMS.dll
+I:\SAMS\obj\Release\netcoreapp3.1\SAMS.pdb
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\SAMS.exe
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\SAMS.deps.json
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\SAMS.runtimeconfig.json
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\SAMS.runtimeconfig.dev.json
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\SAMS.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\SAMS.pdb
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\SLY.dll
+C:\Users\MasterMind\Desktop\SAMS\bin\Release\netcoreapp3.1\SLY.pdb
+C:\Users\MasterMind\Desktop\SAMS\obj\Release\netcoreapp3.1\SAMS.csprojAssemblyReference.cache
+C:\Users\MasterMind\Desktop\SAMS\obj\Release\netcoreapp3.1\staticwebassets\SAMS.StaticWebAssets.Manifest.cache
+C:\Users\MasterMind\Desktop\SAMS\obj\Release\netcoreapp3.1\staticwebassets\SAMS.StaticWebAssets.xml
+C:\Users\MasterMind\Desktop\SAMS\obj\Release\netcoreapp3.1\SAMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MasterMind\Desktop\SAMS\obj\Release\netcoreapp3.1\SAMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MasterMind\Desktop\SAMS\obj\Release\netcoreapp3.1\SAMS.AssemblyInfoInputs.cache
+C:\Users\MasterMind\Desktop\SAMS\obj\Release\netcoreapp3.1\SAMS.AssemblyInfo.cs
+C:\Users\MasterMind\Desktop\SAMS\obj\Release\netcoreapp3.1\SAMS.RazorTargetAssemblyInfo.cache
+C:\Users\MasterMind\Desktop\SAMS\obj\Release\netcoreapp3.1\SAMS.csproj.CopyComplete
+C:\Users\MasterMind\Desktop\SAMS\obj\Release\netcoreapp3.1\SAMS.dll
+C:\Users\MasterMind\Desktop\SAMS\obj\Release\netcoreapp3.1\SAMS.pdb
+C:\SAMS\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\SAMS\bin\Release\netcoreapp3.1\appsettings.json
+C:\SAMS\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\SAMS\bin\Release\netcoreapp3.1\SAMS.exe
+C:\SAMS\bin\Release\netcoreapp3.1\SAMS.deps.json
+C:\SAMS\bin\Release\netcoreapp3.1\SAMS.runtimeconfig.json
+C:\SAMS\bin\Release\netcoreapp3.1\SAMS.runtimeconfig.dev.json
+C:\SAMS\bin\Release\netcoreapp3.1\SAMS.dll
+C:\SAMS\bin\Release\netcoreapp3.1\SAMS.pdb
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\SAMS\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\SAMS\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SAMS\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\SAMS\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\SAMS\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\SAMS\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\SAMS\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\bin\Release\netcoreapp3.1\SLY.dll
+C:\SAMS\bin\Release\netcoreapp3.1\SLY.pdb
+C:\SAMS\obj\Release\netcoreapp3.1\SAMS.csprojAssemblyReference.cache
+C:\SAMS\obj\Release\netcoreapp3.1\SAMS.csproj.CoreCompileInputs.cache
+C:\SAMS\obj\Release\netcoreapp3.1\SAMS.MvcApplicationPartsAssemblyInfo.cs
+C:\SAMS\obj\Release\netcoreapp3.1\SAMS.MvcApplicationPartsAssemblyInfo.cache
+C:\SAMS\obj\Release\netcoreapp3.1\SAMS.AssemblyInfoInputs.cache
+C:\SAMS\obj\Release\netcoreapp3.1\SAMS.AssemblyInfo.cs
+C:\SAMS\obj\Release\netcoreapp3.1\SAMS.RazorTargetAssemblyInfo.cache
+C:\SAMS\obj\Release\netcoreapp3.1\SAMS.csproj.CopyComplete
+C:\SAMS\obj\Release\netcoreapp3.1\staticwebassets\SAMS.StaticWebAssets.Manifest.cache
+C:\SAMS\obj\Release\netcoreapp3.1\staticwebassets\SAMS.StaticWebAssets.xml
+C:\SAMS\obj\Release\netcoreapp3.1\SAMS.dll
+C:\SAMS\obj\Release\netcoreapp3.1\SAMS.pdb
+C:\SAMS\obj\Release\netcoreapp3.1\SAMS.genruntimeconfig.cache
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\appsettings.json
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.exe
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.deps.json
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.runtimeconfig.json
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.runtimeconfig.dev.json
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.pdb
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\SLY.dll
+C:\SAMS\SAMS\bin\Release\netcoreapp3.1\SLY.pdb
+C:\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.csprojAssemblyReference.cache
+C:\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.csproj.CoreCompileInputs.cache
+C:\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.MvcApplicationPartsAssemblyInfo.cs
+C:\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.MvcApplicationPartsAssemblyInfo.cache
+C:\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.AssemblyInfoInputs.cache
+C:\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.AssemblyInfo.cs
+C:\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.RazorTargetAssemblyInfo.cache
+C:\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.csproj.CopyComplete
+C:\SAMS\SAMS\obj\Release\netcoreapp3.1\staticwebassets\SAMS.StaticWebAssets.Manifest.cache
+C:\SAMS\SAMS\obj\Release\netcoreapp3.1\staticwebassets\SAMS.StaticWebAssets.xml
+C:\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.dll
+C:\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.pdb
+C:\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.genruntimeconfig.cache
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.exe
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.deps.json
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.runtimeconfig.json
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.runtimeconfig.dev.json
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.pdb
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\SLY.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\SLY.pdb
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.csprojAssemblyReference.cache
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.AssemblyInfoInputs.cache
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.AssemblyInfo.cs
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.csproj.CoreCompileInputs.cache
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.RazorTargetAssemblyInfo.cache
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.csproj.CopyComplete
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\staticwebassets\SAMS.StaticWebAssets.Manifest.cache
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\staticwebassets\SAMS.StaticWebAssets.xml
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.dll
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.pdb
+C:\Users\SAP\Desktop\SAMS version II\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.genruntimeconfig.cache
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.exe
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.deps.json
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.runtimeconfig.json
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.runtimeconfig.dev.json
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\SAMS.pdb
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\SLY.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\bin\Release\netcoreapp3.1\SLY.pdb
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.csprojAssemblyReference.cache
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.AssemblyInfoInputs.cache
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.AssemblyInfo.cs
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.csproj.CoreCompileInputs.cache
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\staticwebassets\SAMS.StaticWebAssets.Manifest.cache
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\staticwebassets\SAMS.StaticWebAssets.xml
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\scopedcss\bundle\SAMS.styles.css
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.RazorTargetAssemblyInfo.cache
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.csproj.CopyComplete
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.dll
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.pdb
+C:\Users\Tawanda Fohlo\Desktop\D.B.S  Work\HOSPITAL MANAGEMENT SYSTEM\St ANNES HOSPITAL  HARARE\SAMS\SAMS\SAMS\SAMS\obj\Release\netcoreapp3.1\SAMS.genruntimeconfig.cache
